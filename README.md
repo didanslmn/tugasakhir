@@ -1,3 +1,2 @@
-# management_provider
+# My final project on campus
 
-A new Flutter project.
